@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1501908579444,634,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22135,522,1,1,464,0,279
+1501908580467,163,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22141,522,1,1,147,0,0
+1501908580953,184,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22135,522,1,1,161,0,0
+1501908581446,536,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22133,522,1,1,405,0,263
+1501908582304,172,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22141,522,1,1,139,0,0
+1501908582819,159,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22137,522,1,1,139,0,0
+1501908583293,151,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22141,522,1,1,138,0,0
+1501908584257,199,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22135,522,1,1,163,0,0
+1501908584827,202,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22137,522,1,1,174,0,0
+1501908585488,199,2 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22141,522,1,1,195,0,0

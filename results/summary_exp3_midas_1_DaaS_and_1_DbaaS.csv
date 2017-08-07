@@ -1,0 +1,3 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+1 DaaS e 1 DbaaS com Join,100,801,628,1756,"207,97","0,000%",",21174","6,12","0,11","29614,3"
+TOTAL,100,801,628,1756,"207,97","0,000%",",21174","6,12","0,11","29614,3"

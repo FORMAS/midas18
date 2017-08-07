@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1501908580078,195,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22013,498,1,1,194,0,0
+1501908580630,157,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22015,498,1,1,137,0,0
+1501908581137,155,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22013,498,1,1,141,0,0
+1501908581983,152,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22021,498,1,1,136,0,0
+1501908582476,164,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22015,498,1,1,137,0,0
+1501908582978,154,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22021,498,1,1,145,0,0
+1501908583444,160,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22019,498,1,1,137,0,0
+1501908584456,182,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22013,498,1,1,164,0,0
+1501908585030,232,1 DaaS e 1 DbaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,22017,498,1,1,157,0,0
+1501908585687,188,1 DaaS e 1 DbaaS com Join,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupo de Usuários 1-1,text,false,,2527,0,1,1,0,0,188

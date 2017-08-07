@@ -1,0 +1,3 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+MongoDB DbaaS,100,4341,2487,8710,"1450,18","0,000%",",05653","48,34","0,02","875650,6"
+TOTAL,100,4341,2487,8710,"1450,18","0,000%",",05653","48,34","0,02","875650,6"

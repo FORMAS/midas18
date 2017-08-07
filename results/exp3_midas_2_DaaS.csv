@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1501908570924,8518,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21809,458,1,1,8407,0,1015
+1501908580273,193,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21807,458,1,1,143,0,0
+1501908580787,158,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21813,458,1,1,149,0,0
+1501908581292,153,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21807,458,1,1,135,0,0
+1501908582135,169,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21809,458,1,1,144,0,0
+1501908582640,179,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21807,458,1,1,136,0,0
+1501908583132,160,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21805,458,1,1,144,0,0
+1501908583605,652,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21807,458,1,1,476,0,316
+1501908584644,183,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21805,458,1,1,177,0,0
+1501908585263,225,2 DaaS com Join,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,21805,458,1,1,213,0,0

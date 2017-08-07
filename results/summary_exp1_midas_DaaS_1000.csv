@@ -1,0 +1,3 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+DaaS sem Join 1000,100,1098,670,3160,"439,15","0,000%",",16588","29,63","0,05","182920,0"
+TOTAL,100,1098,670,3160,"439,15","0,000%",",16588","29,63","0,05","182920,0"
